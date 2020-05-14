@@ -1,5 +1,6 @@
-### llSPS-INT-62-AI-Powered-News-Search-App-Level-1-AI Powered News Search App (Level-1)
-#Project Summary:
+### llSPS-INT-62-AI-Powered-News-Search-App-Level-1
+## AI Powered News Search App (Level-1)
+# Project Summary:
 The web is home to massive amounts of data, with more being created every day. Organizations can harness this constant stream of information to gain understanding, plan strategies, and find opportunities. Enriched news data can help your application make dynamic connections across current events faster.
 
 
@@ -25,7 +26,7 @@ Optionally, you can choose to:
 3.	The Watson Discovery Service is continually crawling the web to update its Discovery News collection.
 4.	The Watson Discovery Service responds to Slack search requests.
 
-#Technologies Used:
+# Technologies Used:
 •	Node.js: An asynchronous event driven JavaScript runtime, designed to build scalable applications
 •	React: Javascript library for building User Interfaces
 •	Express: A popular and minimalistic web framework for creating API and Web server
