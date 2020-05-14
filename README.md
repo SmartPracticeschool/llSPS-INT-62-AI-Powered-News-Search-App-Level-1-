@@ -5,15 +5,13 @@
 
 
 ### *Description*
-*This code pattern shows you how to tap into massive data sets to mine insight. You'll build a news mining web application with the Watson Discovery service using the Watson Node.js SDK.*
+*This project shows you how to tap into massive data sets to mine insight. You'll build a news mining web application with the Watson Discovery service using the Watson Node.js SDK.*
 
 
 ##### *The app demonstrates two use cases using Watson Discovery News:*
-###### ***Search:*** 
-- *Query for the most relevant new articles about a specific topic or subject. Because the news collection is pre-enriched with natural language processing, you can query not just on keywords or categories but also on concepts, sentiment, and relations to get richer search responses.*
+***Search:*** *Query for the most relevant new articles about a specific topic or subject. Because the news collection is pre-enriched with natural language processing, you can query not just on keywords or categories but also on concepts, sentiment, and relations to get richer search responses.*
 
-###### ***Trending topics in the news:*** 
-- *Identify popular topics over the past 24 hours. Topics can be general, or specific to an industry or category.*
+ ***Trending topics in the news:*** *Identify popular topics over the past 24 hours. Topics can be general, or specific to an industry or category.*
 
 
 
