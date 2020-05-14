@@ -1,12 +1,14 @@
-### llSPS-INT-62-AI-Powered-News-Search-App-Level-1
+# llSPS-INT-62-AI-Powered-News-Search-App-Level-1
 ## AI Powered News Search App (Level-1)
-# Project Summary:
+### Project Summary:
 The web is home to massive amounts of data, with more being created every day. Organizations can harness this constant stream of information to gain understanding, plan strategies, and find opportunities. Enriched news data can help your application make dynamic connections across current events faster.
 
+### Description
+This code pattern shows you how to tap into massive data sets to mine insight. You'll build a news mining web application with the Watson Discovery service using the Watson Node.js SDK. The app demonstrates two use cases using Watson Discovery News:
 
+#### Search: Query for the most relevant new articles about a specific topic or subject. Because the news collection is pre-enriched with natural language processing, you can query not just on keywords or categories but also on concepts, sentiment, and relations to get richer search responses.
 
-In this project, you’ll start with the basics and build your own news mining web application using Node-RED / Python Web App and the IBM Watson Discovery Service. 
-
+#### Trending topics in the news: Identify popular topics over the past 24 hours. Topics can be general, or specific to an industry or category.
 
 To do this, we’ll use:
 
@@ -14,9 +16,8 @@ To do this, we’ll use:
 •	Build a Server Side Application using Node-RED
 •	Use the pre-built Watson Discovery News collection
 •	Access the Watson Discovery Service through the Discovery API
-Optionally, you can choose to:
+Optionally, we use:
 •	Use a Slack interface to query the data
-•	Push news alerts out to web notification
 •	Deploy the app on IBM Cloud
 
 ![](Readme%20images/flow.jpg) 
@@ -26,7 +27,7 @@ Optionally, you can choose to:
 3.	The Watson Discovery Service is continually crawling the web to update its Discovery News collection.
 4.	The Watson Discovery Service responds to Slack search requests.
 
-# Technologies Used:
+### Technologies Used:
 •	Node.js: An asynchronous event driven JavaScript runtime, designed to build scalable applications
 •	React: Javascript library for building User Interfaces
 •	Express: A popular and minimalistic web framework for creating API and Web server
