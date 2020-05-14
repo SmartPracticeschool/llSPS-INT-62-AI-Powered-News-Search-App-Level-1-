@@ -9,10 +9,10 @@
 
 
 ##### *The app demonstrates two use cases using Watson Discovery News:*
-###### *Search*: 
+###### ***Search:*** 
 - *Query for the most relevant new articles about a specific topic or subject. Because the news collection is pre-enriched with natural language processing, you can query not just on keywords or categories but also on concepts, sentiment, and relations to get richer search responses.*
 
-###### *Trending topics in the news:* 
+###### ***Trending topics in the news:*** 
 - *Identify popular topics over the past 24 hours. Topics can be general, or specific to an industry or category.*
 
 
@@ -44,6 +44,6 @@
    - *Watson Discovery: A cognitive search and content analytics engine for applications to identify patterns, trends, and actionable insights.*
 
 
-#### *Project Presentation Link:*
-*https://drive.google.com/open?id=18Gh1b_thENi3hUAf-CnReQVL6rM2tfH2*
+
+#### *Project Presentation Link: https://drive.google.com/open?id=18Gh1b_thENi3hUAf-CnReQVL6rM2tfH2*
 
