@@ -19,7 +19,7 @@ Optionally, you can choose to:
 •	Push news alerts out to web notification
 •	Deploy the app on IBM Cloud
 
- 
+![](Readme images/flow.jpg) 
 
 1.	The user interacts with the app UI(Built with Node-RED or Cloud or Local) to request relevant news content.
 2.	The app sends user requests to Watson Discovery News.
